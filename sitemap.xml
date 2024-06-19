@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://apdoxa.work/about/</loc>
-  </url><url>
     <loc>https://apdoxa.work/</loc>
+    <lastmod>2024-06-19T21:33:29+08:00</lastmod>
+  </url><url>
+    <loc>https://apdoxa.work/about/</loc>
+    <lastmod>2024-06-19T21:33:29+08:00</lastmod>
   </url><url>
     <loc>https://apdoxa.work/categories/</loc>
   </url><url>

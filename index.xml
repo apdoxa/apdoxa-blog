@@ -5,11 +5,12 @@
     <link>https://apdoxa.work/</link>
     <description>Recent content on Apdoxa的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://apdoxa.work/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Jun 2024 21:33:29 +0800</lastBuildDate><atom:link href="https://apdoxa.work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>关于</title>
       <link>https://apdoxa.work/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jun 2024 21:33:29 +0800</pubDate>
       
       <guid>https://apdoxa.work/about/</guid>
       <description>关于 👋欢迎来到我的博客 Welcome to my Blog 这个站点用于存放关于我折腾东西的技术细节，以及一些杂记
