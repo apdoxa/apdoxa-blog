@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>apdoxa.work/about/</loc>
+    <loc>https://apdoxa.work/about/</loc>
   </url><url>
-    <loc>apdoxa.work/categories/</loc>
+    <loc>https://apdoxa.work/</loc>
   </url><url>
-    <loc>apdoxa.work/</loc>
+    <loc>https://apdoxa.work/categories/</loc>
   </url><url>
-    <loc>apdoxa.work/tags/</loc>
+    <loc>https://apdoxa.work/tags/</loc>
   </url>
 </urlset>

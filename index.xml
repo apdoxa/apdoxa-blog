@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>apdoxa.work/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Apdoxa的博客</title>
+    <link>https://apdoxa.work/</link>
+    <description>Recent content on Apdoxa的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="apdoxa.work/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://apdoxa.work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>apdoxa.work/about/</link>
+      <link>https://apdoxa.work/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>apdoxa.work/about/</guid>
-      <description>关于 👋欢迎来到我的博客 Welcome to my Blog </description>
+      <guid>https://apdoxa.work/about/</guid>
+      <description>关于 👋欢迎来到我的博客 Welcome to my Blog 这个站点用于存放关于我折腾东西的技术细节，以及一些杂记
+密涅瓦的猫头鹰将在黄昏时刻起飞 Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug. &amp;mdash;Hegal, Grundlinien der Philosophie des Rechts </description>
     </item>
     
   </channel>
