@@ -1,0 +1,20 @@
+baseURL = 'https://apdoxa10.work/'
+languageCode = 'zh-cn'
+title = 'Apdoxa'
+theme = 'PaperMod'
+[params]
+  [params.homeInfoParams]
+  Title = "欢迎👋"
+  ImageUrl = "./images/a.png"
+  Content = "Let's appresent the doxa!"
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/apdoxa10"
+  [[params.socialIcons]]
+  name = "codeforces"
+  url = "https://codeforces.com/apdoxa"
+  [[params.socialIcons]]
+  name = "luogu"
+  url = "https://www.luogu.com.cn/user/1810792"
+
+hasCJKLanguage = true #汉字字数统计修正

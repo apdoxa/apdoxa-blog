@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apdoxa</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Apdoxa</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Mar 2026 22:14:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>青萍之末</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Wed, 04 Mar 2026 22:14:19 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h3 id=&#34;欢迎来到apdoxa的blog&#34;&gt;👋欢迎来到Apdoxa的blog!&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Let&amp;rsquo;s appresent the doxa!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;密涅瓦的猫头鹰将于黄昏时起飞&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Die Eule von Minerva beginnt erst, mit dem Gehen der Sonne zu fliegen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;搭建参考📚&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://lg-cr.github.io/posts/how-this-was-built/&#34;&gt;在 archlinux 上 Hugo 和 Github Pages 建站记录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod&#34;&gt;PaperMod主题文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://her-cat.com/posts/2025/10/08/hugo-paper-mod/&#34;&gt;折腾 Hugo PaperMod 主题&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
