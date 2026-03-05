@@ -12,7 +12,7 @@ theme = 'PaperMod'
   url = "https://github.com/apdoxa10"
   [[params.socialIcons]]
   name = "codeforces"
-  url = "https://codeforces.com/apdoxa"
+  url = "https://codeforces.com/profile/apdoxa"
   [[params.socialIcons]]
   name = "luogu"
   url = "https://www.luogu.com.cn/user/1810792"
